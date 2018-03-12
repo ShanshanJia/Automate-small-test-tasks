@@ -1,0 +1,7 @@
+@Test-Case-1
+#Col1:A;Col2:B
+Test-CMD -Par1 * -Par2 $True
+
+@Test-Case-2
+#Col1:C;Col2:D
+Test-CMD -Par3 * -Par4 $True
